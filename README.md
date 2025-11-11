@@ -6,3 +6,7 @@ Quelques Screens:
 <img width="1440" height="900" alt="Capture d’écran 2025-11-10 à 19 55 55" src="https://github.com/user-attachments/assets/9668f03d-a205-43e8-8f71-b0535e911480" />
 <img width="1440" height="900" alt="Capture d’écran 2025-11-05 à 19 38 12" src="https://github.com/user-attachments/assets/579aa290-0f2b-40e3-b2cf-b19738f2fb70" />
 Capture d’écran 2025-11-05 à 19.37.31<img width="1440" height="900" alt="Capture d’écran 2025-11-04 à 12 41 00" src="https://github.com/user-attachments/assets/f8ec0e7f-4551-4606-9068-59734af72ef9" />
+<img width="1440" height="900" alt="Capture d’écran 2025-11-11 à 12 24 33" src="https://github.com/user-attachments/assets/2f8e17c3-ef16-43f8-89e8-6bb62f635bf1" />
+
+#Partie_Front 
+<img width="1440" height="900" alt="Capture d’écran 2025-11-11 à 12 25 36" src="https://github.com/user-attachments/assets/b5f71b8e-19fd-4173-b16a-fe2abcd86c61" />
